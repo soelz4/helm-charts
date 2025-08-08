@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: alpine3.22
+    created: "2025-08-08T16:10:18.836009146Z"
+    description: A Helm chart for Kubernetes - NGINX ALPINE 3.22
+    digest: 974b2f027610c706ba362a6ba71b05ac763b535c04101cd6d0ff3407cd1a1b0c
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/soelz4/helm-charts/releases/download/nginx-0.1.2/nginx-0.1.2.tgz
+    version: 0.1.2
+generated: "2025-08-08T16:10:18.836036497Z"
